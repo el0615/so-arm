@@ -1,0 +1,15 @@
+{
+  "leader": {
+    "read6_median_ms": 0.98,
+    "read6_max_ms": 1.16
+  },
+  "follower": {
+    "read6_median_ms": 0.99,
+    "read6_max_ms": 1.16
+  },
+  "three_reads_per_capped_teleop_cycle": {
+    "median_ms": 3.05,
+    "p95_ms": 3.3,
+    "median_read_only_rate_hz": 327.7
+  }
+}

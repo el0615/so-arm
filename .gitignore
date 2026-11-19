@@ -1,0 +1,8 @@
+# Local Python environment and downloaded Windows tools
+/.venv/
+/.runtime/
+/so-arm101_ws.zip
+
+# Generated Python bytecode
+__pycache__/
+*.py[cod]

@@ -1,0 +1,13 @@
+{
+  "options": {
+    "seconds": 20.0,
+    "backend": null,
+    "fps": 30,
+    "codec": "none",
+    "camera": "both"
+  },
+  "cameras": {},
+  "ticks": 0,
+  "success": false,
+  "error": "ConnectionError: Failed to open OpenCVCamera(2). Run `lerobot-find-cameras opencv` to find available cameras."
+}
